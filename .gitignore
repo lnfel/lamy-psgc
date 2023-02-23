@@ -1,0 +1,5 @@
+.DS_store
+notes.md
+convert-to-json.py
+database/
+.faunarc
